@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "nome": "",
+      "email": "",
+      "cpf": "02440015962",
+      "id": 16
+    },
+    {
+      "nome": "",
+      "email": "",
+      "cpf": "024.400.159-62",
+      "id": 17
+    },
+    {
+      "nome": "",
+      "email": "",
+      "cpf": "024.400.129-63",
+      "id": 18
+    },
+    {
+      "nome": "Cristian",
+      "email": "cristianrm@gmail.com",
+      "sexo": "Masculino",
+      "dataNascimento": "27/11/1977",
+      "cpf": "024.400.159-62",
+      "naturalidade": "Brasileira",
+      "id": 19
+    }
+  ]
+}
